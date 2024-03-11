@@ -37,7 +37,13 @@ This project implements a lexical analyzer and an expression evaluator for mathe
 
 1. Compile the project using a C compiler compatible with your operating system.
 
-2. Run the resulting program following the specific instructions for your system.
+2. Run the resulting program following the specific instructions for your system. 
+
+```bash
+cd src/
+make 
+make clean : Environment cleaning
+```
 
 3. Enter mathematical expressions to evaluate and observe the displayed results.
 
